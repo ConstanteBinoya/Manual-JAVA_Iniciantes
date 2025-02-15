@@ -24,7 +24,7 @@ public class TiposVariaveis {
         // Basta que no momento da sua declaração seja adicionado o temo "final" antes
         // do tipo e o NOME deve ser em caixa alta.
         final int NUMERO = 5;
-        NUMERO = 2;
+        //NUMERO = 2;
         // Perceba que a constante NUMERO foi declarada de forma a ser imutável, e mesmo
         // quando se tenta reatribuir o seu valos o sistema aponta um erro.
 
