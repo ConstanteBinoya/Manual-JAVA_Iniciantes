@@ -143,8 +143,25 @@ public class Operadores {
 
          // Operador       Nome                                 Descrição 
          //   &&       E lógico (AND)      Retorna true se ambas as condições forem verdadeiras
-         //  `         OU lógico (OR)       Retorna true se pelo menos uma das condições for verdadeira
+         //   ||      OU lógico (OR)       Retorna true se pelo menos uma das condições for verdadeira
          //   !       NÃO lógico (NOT)     Inverte o valor da expressão booleana 
-    }
 
+        /*boolean cond1 = (10 > 5);  // true
+        *boolean cond2 = (2 > 8);   // false
+
+        *System.out.println(cond1 && cond2);  // false (as duas devem ser verdadeiras)
+        *System.out.println(cond1 || cond2);  // true (pelo menos uma é verdadeira)
+        *System.out.println(!cond1);          // false (inverte o valor de cond1)
+        */
+        int idade = 25;
+        boolean temCarteira = true;
+
+        if (idade >= 18 && temCarteira) {
+        System.out.println("Pode dirigir!");
+        } else {
+        System.out.println("Não pode dirigir!");
+        }
+
+    }
+    
 }
