@@ -1,6 +1,6 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        double salarioMinimo = 3500;
+        /*double salarioMinimo = 3500;
 
         // Exemplo de a IA da IDE adverte sobre o possível mal funcionamento por
         // escolher tipos primitivos não adequados ao valor
@@ -28,7 +28,7 @@ public class TiposVariaveis {
         // Perceba que a constante NUMERO foi declarada de forma a ser imutável, e mesmo
         // quando se tenta reatribuir o seu valos o sistema aponta um erro.
 
-        System.out.println(NUMERO);
+        System.out.println(NUMERO);*/
 
     }
 }
