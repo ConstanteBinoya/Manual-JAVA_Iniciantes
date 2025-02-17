@@ -13,7 +13,14 @@ public class BancoTerminal {
 
     public static void main(String[] args) {
 
-        //Criando um objeto Scanner para receber entrada do usuário:
+        //TODO: Conhecer e importar a class Scanner;
+        //Exibir as mensagens para nosso usuário;
+        //Obter pela acanner os valores digitados no terminal;
+        //Exibir a mensagem de conta criada.
+
+
+
+        
 
         Scanner scanner = new Scanner(System.in); //Cria um objeto capaz de ler dados do teclado.
         //Decompondo o código:
