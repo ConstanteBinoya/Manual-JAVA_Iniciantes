@@ -122,6 +122,3 @@ public class MeuPrograma {  // 3️⃣ Classe Principal
 ✅ O nome da classe **deve ser igual** ao nome do arquivo.  
 ✅ O método `main` é **obrigatório** em um programa executável.  
 ✅ Sempre **terminamos os comandos com `;`**.  
-
-
-Quer praticar? Podemos criar um exercício para você testar essa estrutura! 🎯
