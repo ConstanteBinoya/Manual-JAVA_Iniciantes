@@ -3,7 +3,7 @@ import java.util.Scanner; /*
                           *É responsável por criar um objeto da classe Scanner, que permite a leitura 
                           *de entradas do usuário via teclado (terminal).
                           */
-
+                          
                           /*
                           *Sempre que for criar um programa que solicite dados do usuário, será necessário
                           *Importar a CLASS SCANNER que faz parte do pacote JAVA.UTIL.
@@ -17,10 +17,6 @@ public class BancoTerminal {
         //Exibir as mensagens para nosso usuário;
         //Obter pela acanner os valores digitados no terminal;
         //Exibir a mensagem de conta criada.
-
-
-
-        
 
         Scanner scanner = new Scanner(System.in); //Cria um objeto capaz de ler dados do teclado.
         //Decompondo o código:
