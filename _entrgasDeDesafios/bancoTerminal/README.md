@@ -19,47 +19,31 @@ Este é um simples aplicativo bancário criado em Java que simula a criação de
 
 Ao executar o programa, você verá as seguintes mensagens e solicitará dados ao usuário:
 
-|======================================|
-|==== BINOYA's_INTERNATIONAL_BANK =====|
-|======================================|
-|           Seja Bem-vindo!            |
-|--------------------------------------|
+ 
+|`$$$$ BINOYA's_INTERNATIONAL_BANK $$$$`|  
+|---|   
+
+| Seja Bem-vindo! |
+|---| 
 | Por favor, digite o NÚMERO da CONTA: |
-|--------------------------------------|
-12345
+| 12345 |
+| Por favor, digite o NÚMERO da AGÊNCIA: |
+| 001 |
+| Por favor, digite seu NOME: |
+| João Silva |
+| Por favor, digite o SALDO INICIAL: |
+| 1000.50 |
 
-|--------------------------------------|
-|Por favor, digite o NÚMERO da AGÊNCIA:|
-|--------------------------------------|
-001
+|`$$$$ BINOYA's_INTERNATIONAL_BANK $$$$`|  
+|---|   
+| Extrato Bancário |
+| CLIENTE: João Silva.|
+|AGÊNCIA: 001.|
+| CONTA: 12345.|
+| SALDO: R$1000.5.|
 
-|--------------------------------------|
-|Por favor, digite seu NOME:           |
-|--------------------------------------|
-João Silva
+## `**Olá João Silva, obrigado por criar uma conta em nosso banco!**`
 
-|--------------------------------------|
-|Por favor, digite o SALDO INICIAL:    |
-|--------------------------------------|
-1000.50
-
-|======================================|
-|==== BINOYA's_INTERNATIONAL_BANK =====|
-|======================================|
-|           Extrato Bancário           |
-|--------------------------------------|
- CLIENTE: João Silva.
-|--------------------------------------|
- AGÊNCIA: 001.
-|--------------------------------------|
- CONTA: 12345.
-|--------------------------------------|
- SALDO: R$1000.5.
-|--------------------------------------|
-|######################################|
- Olá João Silva, obrigado por criar uma 
- conta em nosso banco!
-|######################################|
 
 
 ## Detalhes do Código
