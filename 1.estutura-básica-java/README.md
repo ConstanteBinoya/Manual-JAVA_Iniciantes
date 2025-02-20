@@ -10,7 +10,7 @@ Todo programa em Java segue uma estrutura obrigatória para que o código seja v
 
 Meu-projeto: `SistemaDeCadastro`  
 │── Pacote: `br.com.meuprojeto`   
-│   ├── `Arquivo Java: Pessoa.java` 
+│   ├── `Arquivo Java: Pessoa.java`   
 │   ├── `Arquivo Java: Cadastro.java` 
 
 ---
