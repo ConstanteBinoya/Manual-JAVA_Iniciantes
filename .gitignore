@@ -28,30 +28,33 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-=======
-# Compiled class file
+
+### Java Compiled Files ###
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
 *.jar
 *.war
 *.nar
 *.ear
+
+### Logs ###
+*.log
+
+### Outros ###
 *.zip
 *.tar.gz
 *.rar
+*.ctxt
+.mtj.tmp/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+### JVM crash logs ###
 hs_err_pid*
 replay_pid*
+
+### Arquivos específicos do projeto (ajuste conforme necessário) ###
 tipos-variaveis/.vscode/settings.json
+
+### Ignorar pastas de produção ###
+/classes/
+/classes/production/
+
 >>>>>>> d08ff3901dea716f5ea4b2a39f61e7dce00872b6
